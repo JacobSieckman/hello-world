@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+
+Hello everyone,
+
+Have a wonderful day! :)
+
+Warm Regards,
+Jacob Sieckman
